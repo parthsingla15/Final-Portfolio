@@ -1,0 +1,280 @@
+.title1{
+    background-color: black; 
+    padding-bottom: 128px;
+    clip-path: polygon(0 0,100% 0,100% 100%,70% 87%,0 100%);
+    
+}
+#univ{
+    color: #3DCDF3;
+}
+
+
+
+
+.navbar{
+    color: white;
+    margin: 0%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 8%;
+  
+    
+}
+
+
+
+
+
+
+#hower:hover{
+    color:  #3DCDF3;
+    
+}
+#contact1{
+    margin-left: 20%;
+    margin-right: 10%;
+    color: black;
+    padding: 0.8rem 3rem;
+    font-size: 1rem;
+    font-weight: 600;
+   
+    outline: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all .3s ease;
+    border: 2px solid #3DCDF3;
+    background-color: #3DCDF3;
+    
+
+}
+#contact1:hover{
+    color:#3DCDF3;
+    background-color: black;
+
+}
+.intro{
+    background-color: black;
+    color: #3DCDF3;
+    display: flex;
+    margin-left: 12%;
+    margin-top: 8%;
+    font-size: 1.5rem;
+    
+   
+}
+.profession{
+    color: white;
+    margin-left: 12%;
+    font-size: 2rem;
+    font-weight: 100;
+   
+}
+.profession2{
+    color: white;
+    margin-left: 12%;
+}
+.cv{
+    color: #3DCDF3;
+    margin-left: 12%;
+    margin-right: 73%;
+    border: #3DCDF3;
+   
+  
+}
+.cv:hover{
+    color: black;
+    background-color: #3DCDF3;
+}
+
+.btn-secondary {
+    background: transparent;
+    border-color: var(--primary);
+    color: var(--primary);
+   
+}
+.btn {
+    padding: 0.8rem 3rem;
+    font-size: 1rem;
+    font-weight: 600;
+   
+    outline: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all .3s ease;
+    border: 2px solid #3DCDF3;
+}
+
+
+
+
+.pic{
+    padding-bottom: 48px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.picture{
+    margin-top: 3rem;
+}
+.text{
+   margin-top: 8rem;
+    justify-content: left;
+ 
+}
+.services{
+    background-color: #ddd5d5ab;
+    padding-bottom: 10px;
+}
+.top-text{
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    
+}
+#color2{
+    color: #898989;
+}
+
+.box-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    background-color: #e2e7e6;
+    align-items: center;
+}
+.box{
+    height: 200px;
+    width: 350px;
+   /* border: 2px solid black;*/
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 12px;
+    
+
+}
+
+.box1{
+    
+}
+
+.box-image{
+    height: 225px;
+    background-size:cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box1-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    align-items: center;
+}
+.box-section2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    background-color: #e2e7e6;
+    align-items: center;
+}
+
+.free{
+    text-align: center;
+    background-image: url(hack.jpeg);
+    padding-bottom: 20%;
+    margin-top: 2rem;
+    color: #898989;
+    font-size: xx-large;
+    clip-path: polygon(0 0,100% 0,100% 100%,70% 87%,0 100%);
+    
+}
+
+
+#contact2{
+    margin-left: 42%;
+    margin-right: 43%;
+    color: black;
+    padding: 0.8rem 3rem;
+    font-size: 1rem;
+    font-weight: 600;
+   
+    outline: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all .3s ease;
+    border: 2px solid #3DCDF3;
+    background-color: #3DCDF3;
+    
+
+}
+#contact2:hover{
+    color:#3DCDF3;
+    background-color: black;
+
+
+}
+.box:hover{
+    background-color: #898989;
+}
+
+.clientss{
+    text-align: center;
+    margin-top: 2rem;
+
+}
+.imgss{
+  object-fit: cover;
+    border-radius: 4%;
+    padding-left: 47%;
+    margin-top: 4rem;
+
+}
+#one{
+    text-align: center;
+    color: #898989;
+}
+
+
+.workk{
+    text-align: center;
+    color: black;
+    padding-bottom: 8%;
+    margin-top: 6rem;
+
+
+}
+.workkk{
+    background-color: #ddd5d5ab;
+}
+
+.contactss{
+    text-align: center;
+}
+
+
+
+
+
+.torture{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 8rem;
+    padding-bottom: 10%;
+}
+.foot{
+    background-color: #898989;
+    padding-bottom: 48px;
+    justify-content: center;
+    display: flex;
+    padding: 3rem 0;
+    text-align: center;
+    
+}
+.footer-socials{
+    margin: 0 0 16px;
+    margin-bottom: 1rem;
+}
+
+
+
